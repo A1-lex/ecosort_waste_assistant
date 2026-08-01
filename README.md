@@ -29,7 +29,7 @@ pip install -r requirements.txt
 [Brief table: CNN accuracy, text classifier accuracy, RAG evaluation summary]
 
 ## Key Design Decisions
-[3-4 bullets pulled from your notebook's justifications — EfficientNetB0 choice,
+[3-4 bullets pulled from your notebook's justifications -> EfficientNetB0 choice,
 TF-IDF over embeddings, FLAN-T5 with retrieval, etc.]
 
 ## License
