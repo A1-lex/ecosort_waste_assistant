@@ -1,0 +1,15 @@
+# Data
+data/RealWaste/
+*.zip
+
+# Models (large binary files)
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Colab
+.env
