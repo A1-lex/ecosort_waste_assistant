@@ -1,6 +1,6 @@
 # EcoSort: Intelligent Waste Management Assistant
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/A1-lex/ecosort-waste-assistant/blob/main/notebooks/ecosort_waste_assistant.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/A1-lex/ecosort_waste_assistant/blob/main/notebooks/ecosort_waste_assistant.ipynb)
 
 An end-to-end machine learning system that classifies waste materials from images or text
 descriptions and generates recycling instructions using Retrieval-Augmented Generation (RAG).
